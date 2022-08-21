@@ -2,21 +2,15 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Total Downloads][ico-downloads]][link-downloads]
-
-
-> Implement Flutterwave Rave payment gateway easily with Laravel
-
-- Go to [Flutterwave](https://dashboard.flutterwave.com/dashboard/settings/apis) to get your public and private key
 
 > **Note**
->This package is an attempt to have a maintained/updated version of [the original Laravel Rave package](https://github.com/kingflamez/laravelrave)
+> This package is an attempt to have a maintained/updated version of [the original Laravel Rave package](https://github.com/kingflamez/laravelrave)
 
+> **Note**
+> Go to [Flutterwave](https://dashboard.flutterwave.com/dashboard/settings/apis) to get your public and private key
 
 ## Documentation
-
- A friendly documentation can be found [here](https://laravelrave.netlify.com/)
-
+A friendly documentation can be found [here](https://laravelrave.netlify.com/)
 
 ## Credits
 
@@ -48,30 +42,13 @@ The current features have been implemented
 - Banks
 - Beneficiaries
 
-I will be working on this next
-- Tokenized Charge
-- Pre Auth Charge
-
-> If there are features you need urgently, I will be willing to prioritize them, please reach out to my twitter account
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-<!-- [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master -->
-<!-- [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square -->
-<!-- [ico-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/quality-score.png?b=master -->
-<!-- [ico-code-intelligence]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master -->
-<!-- [ico-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master -->
-[ico-downloads]: https://img.shields.io/packagist/dt/kingflamez/laravelrave.svg?style=flat-square
-
 [link-packagist]: https://packagist.org/packages/kingflamez/laravelrave
 [link-travis]: https://travis-ci.org/toondaey/laravelrave
 [link-scrutinizer]: https://scrutinizer-ci.com/g/kingflamez/laravelrave/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/?branch=master
-[link-downloads]: https://packagist.org/packages/kingflamez/laravelrave
-[link-author]: https://github.com/kingflamez
-[link-contributors]: ../../contributors
-[link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/?branch=master
-[link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence
+[link-author]: https://github.com/damms005
