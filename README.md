@@ -9,6 +9,9 @@
 
 - Go to [Flutterwave](https://dashboard.flutterwave.com/dashboard/settings/apis) to get your public and private key
 
+> **Note**
+>This package is an attempt to have a maintained/updated version of [the original Laravel Rave package](https://github.com/kingflamez/laravelrave)
+
 
 ## Documentation
 
