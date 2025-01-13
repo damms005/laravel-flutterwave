@@ -3,4 +3,4 @@ This repo is a needful copy (not fork) of [Kingflamez's Flutterwave package](htt
 
 ## Recommendation
 
-Use [Laravel Multipay](https://github.com/damms005/laravel-multipay) for better experience. It depends on this repo as a [VCS repo](https://getcomposer.org/doc/05-repositories.md#vcs) and is well maintained, receives regular updates, and provides interface for other payment providers.
+Use [Laravel Multipay](https://github.com/damms005/laravel-multipay) for better experience. It depends on this repo as a [VCS repo](https://getcomposer.org/doc/05-repositories.md#vcs) and is well documented, maintained, receives regular updates, and provides interface for other payment providers.
