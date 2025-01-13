@@ -1,4 +1,4 @@
-This repo is a copy (not fork) or [Kingflamez's Flutterwave package](https://github.com/kingflamez/laravelrave) that I had to make simply because the upstream does not always upgrade for new Laravel version compatibility in good time.
+This repo is a needful copy (not fork) of [Kingflamez's Flutterwave package](https://github.com/kingflamez/laravelrave) because the upstream does not always upgrade for new Laravel version compatibility in good time.
 
 
 ## Recommendation
