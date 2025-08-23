@@ -1,7 +1,7 @@
 {
     "name": "damms005/laravel-flutterwave",
-    "description": "A Laravel 9 Package for Flutterwave Rave",
-    "keywords": ["php","github", "laravel","Open Source","payments", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel 9"],
+    "description": "A Laravel Package for Flutterwave Rave",
+    "keywords": ["php","github", "laravel","Open Source","payments", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel"],
     "license": "MIT",
     "authors": [
         {
@@ -11,8 +11,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.2|^8.0|^8.3",
-        "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
+        "php": "^8.2",
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
    },
    "require-dev": {
         "phpunit/phpunit" : "^8.3",
