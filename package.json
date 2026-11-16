@@ -17,5 +17,8 @@
     "vuepress": "^1.5.3",
     "is-svg": "^4.2.2",
     "ssri": "^8.0.1"
+  },
+  "resolutions": {
+    "node-forge": "^1.4.1"
   }
 }
