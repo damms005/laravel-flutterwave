@@ -19,6 +19,7 @@
     "ssri": "^8.0.1"
   },
   "resolutions": {
-    "node-forge": "^1.4.1"
+    "node-forge": "^1.4.1",
+    "toml": "^5.0.1"
   }
 }
